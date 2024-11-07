@@ -15,8 +15,7 @@ General Public Licence](http://www.gnu.org/copyleft/gpl.html).
 
 ## Download
 
-- [64 bit binaries](x64)
-- [32 bit binaries](x86)
+- [ARM 64 binaries](https://github.com/alvazu/rbtray-arm/releases/tag/4.14)
 - [Original RBTray](https://sourceforge.net/projects/rbtray/files/)
 
 ## Installing
